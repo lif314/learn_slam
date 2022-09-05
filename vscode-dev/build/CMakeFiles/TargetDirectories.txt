@@ -1,0 +1,3 @@
+/home/lilinfei/learn-slam/vscode-dev/build/CMakeFiles/cmake_main.exe.dir
+/home/lilinfei/learn-slam/vscode-dev/build/CMakeFiles/edit_cache.dir
+/home/lilinfei/learn-slam/vscode-dev/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lilinfei/learn-slam/vscode-dev/build",
+  "command": "/usr/bin/g++  -I/home/lilinfei/learn-slam/vscode-dev/include  -Wall -g -o CMakeFiles/cmake_main.exe.dir/main.cpp.o -c /home/lilinfei/learn-slam/vscode-dev/main.cpp",
+  "file": "/home/lilinfei/learn-slam/vscode-dev/main.cpp"
+},
+{
+  "directory": "/home/lilinfei/learn-slam/vscode-dev/build",
+  "command": "/usr/bin/g++  -I/home/lilinfei/learn-slam/vscode-dev/include  -Wall -g -o CMakeFiles/cmake_main.exe.dir/src/Gun.cpp.o -c /home/lilinfei/learn-slam/vscode-dev/src/Gun.cpp",
+  "file": "/home/lilinfei/learn-slam/vscode-dev/src/Gun.cpp"
+},
+{
+  "directory": "/home/lilinfei/learn-slam/vscode-dev/build",
+  "command": "/usr/bin/g++  -I/home/lilinfei/learn-slam/vscode-dev/include  -Wall -g -o CMakeFiles/cmake_main.exe.dir/src/Soldier.cpp.o -c /home/lilinfei/learn-slam/vscode-dev/src/Soldier.cpp",
+  "file": "/home/lilinfei/learn-slam/vscode-dev/src/Soldier.cpp"
+}
+]
