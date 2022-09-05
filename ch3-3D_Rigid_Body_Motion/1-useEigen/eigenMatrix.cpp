@@ -18,7 +18,5 @@ int main(int argc, char const *argv[])
     Matrix<float, 2, 3> matrix_23;
     matrix_23 << 1, 2, 3, 4, 5, 6;
     cout << "Matrix_23=\n" << matrix_23 << endl;
-    
-    
     return 0;
 }

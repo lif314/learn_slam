@@ -1,5 +1,0 @@
-/home/lilinfei/learn-slam/ch2/build/CMakeFiles/helloSLAM.dir
-/home/lilinfei/learn-slam/ch2/build/CMakeFiles/libHello.dir
-/home/lilinfei/learn-slam/ch2/build/CMakeFiles/useHello.dir
-/home/lilinfei/learn-slam/ch2/build/CMakeFiles/edit_cache.dir
-/home/lilinfei/learn-slam/ch2/build/CMakeFiles/rebuild_cache.dir
