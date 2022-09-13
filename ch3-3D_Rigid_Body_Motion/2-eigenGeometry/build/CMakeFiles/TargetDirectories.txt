@@ -1,0 +1,3 @@
+/home/lilinfei/learn-slam/ch3-3D_Rigid_Body_Motion/2-eigenGeometry/build/CMakeFiles/plotTrajectory.dir
+/home/lilinfei/learn-slam/ch3-3D_Rigid_Body_Motion/2-eigenGeometry/build/CMakeFiles/edit_cache.dir
+/home/lilinfei/learn-slam/ch3-3D_Rigid_Body_Motion/2-eigenGeometry/build/CMakeFiles/rebuild_cache.dir

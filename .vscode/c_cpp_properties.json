@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 // Eigen库
-                "/usr/include/eigen3"
+                "/usr/include/eigen3",
+                "/usr/local/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
