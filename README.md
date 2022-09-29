@@ -17,7 +17,7 @@ sudo updatedb
 locate eigen3
 ```
 
-#### How to use pangolin
+### How to use pangolin
 - clone
 ```shell
 git clone https://github.com/stevenlovegrove/Pangolin.git
@@ -43,5 +43,35 @@ cmake --build .
 
 - install
 ```shell
+sudo make install
+```
+
+### How to use Sophus
+- clone
+```shell
+git clone git@github.com:strasdat/Sophus.git
+```
+- build
+```shell
+cd ./Sophus/
+
+mkdir build
+
+cd ./build
+
+cmake ../ -DUSE_BASIC_LOGGING=ON
+
+make
+
+sudo make install
+```
+
+- install fmt
+```shell
+git clone https://github.com/fmtlib/fmt.git
+mkdir build 
+cd build
+cmake ..
+make
 sudo make install
 ```

@@ -4,6 +4,9 @@
         "dense": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "fstream": "cpp"
-    }
+        "fstream": "cpp",
+        "geometry": "cpp",
+        "core": "cpp"
+    },
+    "cmake.configureOnOpen": true
 }
