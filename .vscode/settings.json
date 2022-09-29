@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "dense": "cpp"
+        "*.html": "html",
+        "dense": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp"
     }
 }
