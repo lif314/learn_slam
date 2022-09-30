@@ -68,7 +68,7 @@ sudo make install
 
 - install fmt
 ```shell
-git clone https://github.com/fmtlib/fmt.git
+git clone git@github.com:fmtlib/fmt.git
 mkdir build 
 cd build
 cmake ..
