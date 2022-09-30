@@ -6,7 +6,8 @@
         "ostream": "cpp",
         "fstream": "cpp",
         "geometry": "cpp",
-        "core": "cpp"
+        "core": "cpp",
+        "chrono": "cpp"
     },
     "cmake.configureOnOpen": true
 }
