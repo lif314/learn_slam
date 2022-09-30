@@ -90,6 +90,7 @@ sudo apt-get install build-essential
  
 sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
  
+ # optional
 sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
 ```
 
@@ -101,4 +102,52 @@ cmake ..
 make
 
 sudo make install
+```
+
+- set path
+```shell
+sudo gedit /etc/ld.so.conf
+
+# add
+include /usr/local/lib
+
+# activate
+sudo ldconfig
+```
+
+- set bashrc
+```shell
+sudo gedit /etc/bash.bashrc
+
+# activate
+source /etc/bash.bashrc
+```
+
+- test
+```shell
+pkg-config opencv –modversion
+```
+
+- add in vscode
+```json
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/eigen3",
+                "/usr/local/include",
+                // opencv
+                "/usr/local/include/opencv4"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
 ```
